@@ -121,19 +121,19 @@ The **Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit** p
 
 ## Repository Contents
 - **bus details extraction.ipynb**
-- Contains the Python script using Selenium to scrape bus details such as routes, timings, prices, and availability.
+  - Contains the Python script using Selenium to scrape bus details such as routes, timings, prices, and availability.
 
 - **pymysqlconn.ipynb**
-- Demonstrates the connection to a SQL database for storing the scraped data.
+  - Demonstrates the connection to a SQL database for storing the scraped data.
 
 - **red bus routes and links.ipynb**
-- Extracts bus routes and their respective URLs for data scraping.
+  - Extracts bus routes and their respective URLs for data scraping.
 
 - **redbus_all_data.csv**
-- A CSV file containing the scraped bus data for reference or analysis.
+  - A CSV file containing the scraped bus data for reference or analysis.
 
 - **redbus_streamlit.py**
-- A Streamlit application script to dynamically filter and visualize the scraped data.
+  - A Streamlit application script to dynamically filter and visualize the scraped data.
 
 ## Project Evaluation Metrics
 - **Data Accuracy:** Completeness and correctness of scraped data.
@@ -151,4 +151,5 @@ The **Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit** p
 ## streamlit application screenshot
 - here's a screenshot Redbus Data Filtering in Streamlit Web Application
 - This screenshot showcases the interactive Streamlit application built for dynamic filtering and visualization of bus travel data. Users can filter buses based on routes, timings, prices, ratings, and availability. The application provides an intuitive interface for analyzing transportation data in real time, helping in decision-making and market analysis.
-- 
+
+![red bus data filter](https://github.com/user-attachments/assets/8ddcd3fa-4026-4341-9141-a0062693f0bd)
